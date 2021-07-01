@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alearaldi
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning how to be an adult
 - 💞️ I’m looking to collaborate in anything i can
 
 <!---
