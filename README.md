@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alearaldi
-- 👀 I’m interested in everything
-- 💞️ I’m looking to collaborate in anything i can
+- 👀 I’m a freelance Programmer
 
 <!---
 alearaldi/alearaldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
